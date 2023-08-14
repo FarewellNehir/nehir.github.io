@@ -1,1 +1,1 @@
-window.location="nehir.dev";
+window.location="https://nehir.dev";
